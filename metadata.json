@@ -1,0 +1,6 @@
+{
+  "name": "Dell Calc Pro - Scientific & Graphing Calculator",
+  "description": "A world-class browser-based calculator suite featuring standard, scientific, programmer, advanced math, graphing, unit conversion, formula reference, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
